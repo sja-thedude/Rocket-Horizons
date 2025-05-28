@@ -1,2 +1,3 @@
 # Rocket-Horizons
-Ecommerce Website built using PHP
+
+Rocket Horizons is an Ecommerce Website built using PHP...
